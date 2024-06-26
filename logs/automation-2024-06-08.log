@@ -1,0 +1,50 @@
+19:08:25.820 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegisterationTest - Entered Telephone
+19:08:25.948 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegisterationTest - Entered Password
+19:08:26.073 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegisterationTest - Entered Confirmation Password
+19:08:26.179 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegisterationTest - Select Privacy Policy checkbox
+19:08:26.569 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegisterationTest - Clicked on Registration link
+19:08:26.744 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegisterationTest - Entered First Name
+19:08:26.863 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegisterationTest - Entered Last Name
+19:08:26.991 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegisterationTest - Entered Email
+19:08:27.101 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegisterationTest - Entered Telephone
+19:08:27.212 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegisterationTest - Entered Password
+19:08:27.285 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegisterationTest - Entered Confirmation Password
+19:08:27.380 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegisterationTest - Select Privacy Policy checkbox
+19:08:29.041 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegisterationTest - Clicked on continue button
+19:08:29.096 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegisterationTest - Validating expected message
+19:08:29.096 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegisterationTest - Test Passes....
+19:08:29.100 [TestNG-tests-2] DEBUG testCases.TC_001_AccountRegisterationTest - Application logs end....
+19:08:29.100 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegisterationTest - **** Finished TC_001_AccountRegisterationTest ****
+19:08:30.143 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegisterationTest - Clicked on continue button
+19:08:30.170 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegisterationTest - Validating expected message
+19:08:30.170 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegisterationTest - Test Passes....
+19:08:30.170 [TestNG-tests-1] DEBUG testCases.TC_001_AccountRegisterationTest - Application logs end....
+19:08:30.170 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegisterationTest - **** Finished TC_001_AccountRegisterationTest ****
+23:09:03.734 [main] INFO  testCases.TC_001_AccountRegisterationTest - **** starting TC_001_AccountRegisterationTest ****
+23:09:03.813 [main] DEBUG testCases.TC_001_AccountRegisterationTest - Application logs started
+23:09:04.952 [main] INFO  testCases.TC_001_AccountRegisterationTest - Clicked on My Account link
+23:09:05.596 [main] INFO  testCases.TC_001_AccountRegisterationTest - Clicked on Registration link
+23:09:05.747 [main] INFO  testCases.TC_001_AccountRegisterationTest - Entered First Name
+23:09:05.883 [main] INFO  testCases.TC_001_AccountRegisterationTest - Entered Last Name
+23:09:05.991 [main] INFO  testCases.TC_001_AccountRegisterationTest - Entered Email
+23:09:06.081 [main] INFO  testCases.TC_001_AccountRegisterationTest - Entered Telephone
+23:09:06.175 [main] INFO  testCases.TC_001_AccountRegisterationTest - Entered Password
+23:09:06.269 [main] INFO  testCases.TC_001_AccountRegisterationTest - Entered Confirmation Password
+23:09:06.316 [main] INFO  testCases.TC_001_AccountRegisterationTest - Select Privacy Policy checkbox
+23:09:09.067 [main] INFO  testCases.TC_001_AccountRegisterationTest - Clicked on continue button
+23:09:09.106 [main] INFO  testCases.TC_001_AccountRegisterationTest - Validating expected message
+23:09:09.106 [main] INFO  testCases.TC_001_AccountRegisterationTest - Test Passes....
+23:09:09.106 [main] DEBUG testCases.TC_001_AccountRegisterationTest - Application logs end....
+23:09:09.106 [main] INFO  testCases.TC_001_AccountRegisterationTest - **** Finished TC_001_AccountRegisterationTest ****
+23:18:00.971 [main] INFO  testCases.TC_001_AccountRegisterationTest - **** starting TC_001_AccountRegisterationTest ****
+23:18:01.021 [main] DEBUG testCases.TC_001_AccountRegisterationTest - Application logs started
+23:18:02.037 [main] INFO  testCases.TC_001_AccountRegisterationTest - Clicked on My Account link
+23:18:02.922 [main] INFO  testCases.TC_001_AccountRegisterationTest - Clicked on Registration link
+23:18:03.052 [main] INFO  testCases.TC_001_AccountRegisterationTest - Entered First Name
+23:18:03.183 [main] INFO  testCases.TC_001_AccountRegisterationTest - Entered Last Name
+23:18:03.306 [main] INFO  testCases.TC_001_AccountRegisterationTest - Entered Email
+23:18:03.424 [main] INFO  testCases.TC_001_AccountRegisterationTest - Entered Telephone
+23:18:03.512 [main] INFO  testCases.TC_001_AccountRegisterationTest - Entered Password
+23:18:03.586 [main] INFO  testCases.TC_001_AccountRegisterationTest - Entered Confirmation Password
+23:18:03.651 [main] INFO  testCases.TC_001_AccountRegisterationTest - Select Privacy Policy checkbox
+23:18:06.352 [main] INFO  testCases.TC_001_AccountRegisterationTest - Clicked on continue button
