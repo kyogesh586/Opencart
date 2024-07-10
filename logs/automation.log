@@ -1,0 +1,50 @@
+23:38:00.616 [main] INFO  testCases.TC_001_AccountRegisterationTest - **** starting TC_001_AccountRegisterationTest ****
+23:38:00.627 [main] DEBUG testCases.TC_001_AccountRegisterationTest - Application logs started
+23:38:01.982 [main] INFO  testCases.TC_001_AccountRegisterationTest - Clicked on My Account link
+23:38:05.800 [main] INFO  testCases.TC_001_AccountRegisterationTest - Clicked on Registration link
+23:38:06.184 [main] INFO  testCases.TC_001_AccountRegisterationTest - Entered First Name
+23:38:06.332 [main] INFO  testCases.TC_001_AccountRegisterationTest - Entered Last Name
+23:38:06.666 [main] INFO  testCases.TC_001_AccountRegisterationTest - Entered Email
+23:38:06.798 [main] INFO  testCases.TC_001_AccountRegisterationTest - Entered Telephone
+23:38:06.987 [main] INFO  testCases.TC_001_AccountRegisterationTest - Entered Password
+23:38:07.169 [main] INFO  testCases.TC_001_AccountRegisterationTest - Entered Confirmation Password
+23:38:07.367 [main] INFO  testCases.TC_001_AccountRegisterationTest - Select Privacy Policy checkbox
+23:38:11.088 [main] INFO  testCases.TC_001_AccountRegisterationTest - Clicked on continue button
+23:38:11.143 [main] INFO  testCases.TC_001_AccountRegisterationTest - Validating expected message
+23:38:11.144 [main] INFO  testCases.TC_001_AccountRegisterationTest - Test Passes....
+23:38:11.149 [main] DEBUG testCases.TC_001_AccountRegisterationTest - Application logs end....
+23:38:11.149 [main] INFO  testCases.TC_001_AccountRegisterationTest - **** Finished TC_001_AccountRegisterationTest ****
+23:38:16.687 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest ****
+23:38:16.688 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug logs....
+23:38:17.611 [main] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on home page
+23:38:19.338 [main] INFO  testCases.TC_002_LoginTest - clicked on login link
+23:38:19.559 [main] INFO  testCases.TC_002_LoginTest - Email id entered
+23:38:19.731 [main] INFO  testCases.TC_002_LoginTest - Password entered
+23:38:20.600 [main] INFO  testCases.TC_002_LoginTest - Clicked on login button
+23:38:20.659 [main] INFO  testCases.TC_002_LoginTest - Login test passed
+23:38:20.659 [main] INFO  testCases.TC_002_LoginTest - **** Ending TC_002_LoginTest ****
+14:24:21.939 [main] INFO  testCases.TC_001_AccountRegisterationTest - **** starting TC_001_AccountRegisterationTest ****
+14:24:21.973 [main] DEBUG testCases.TC_001_AccountRegisterationTest - Application logs started
+14:24:22.801 [main] INFO  testCases.TC_001_AccountRegisterationTest - Clicked on My Account link
+14:24:24.979 [main] INFO  testCases.TC_001_AccountRegisterationTest - Clicked on Registration link
+14:24:25.395 [main] INFO  testCases.TC_001_AccountRegisterationTest - Entered First Name
+14:24:25.535 [main] INFO  testCases.TC_001_AccountRegisterationTest - Entered Last Name
+14:24:25.698 [main] INFO  testCases.TC_001_AccountRegisterationTest - Entered Email
+14:24:25.821 [main] INFO  testCases.TC_001_AccountRegisterationTest - Entered Telephone
+14:24:25.938 [main] INFO  testCases.TC_001_AccountRegisterationTest - Entered Password
+14:24:26.040 [main] INFO  testCases.TC_001_AccountRegisterationTest - Entered Confirmation Password
+14:24:26.116 [main] INFO  testCases.TC_001_AccountRegisterationTest - Select Privacy Policy checkbox
+14:24:29.855 [main] INFO  testCases.TC_001_AccountRegisterationTest - Clicked on continue button
+14:24:29.893 [main] INFO  testCases.TC_001_AccountRegisterationTest - Validating expected message
+14:24:29.893 [main] INFO  testCases.TC_001_AccountRegisterationTest - Test Passes....
+14:24:29.896 [main] DEBUG testCases.TC_001_AccountRegisterationTest - Application logs end....
+14:24:29.896 [main] INFO  testCases.TC_001_AccountRegisterationTest - **** Finished TC_001_AccountRegisterationTest ****
+14:24:34.119 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest ****
+14:24:34.119 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug logs....
+14:24:35.180 [main] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on home page
+14:24:37.054 [main] INFO  testCases.TC_002_LoginTest - clicked on login link
+14:24:37.278 [main] INFO  testCases.TC_002_LoginTest - Email id entered
+14:24:37.401 [main] INFO  testCases.TC_002_LoginTest - Password entered
+14:24:38.198 [main] INFO  testCases.TC_002_LoginTest - Clicked on login button
+14:24:38.250 [main] INFO  testCases.TC_002_LoginTest - Login test passed
+14:24:38.250 [main] INFO  testCases.TC_002_LoginTest - **** Ending TC_002_LoginTest ****
